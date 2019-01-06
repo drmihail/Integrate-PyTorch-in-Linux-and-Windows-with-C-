@@ -1,7 +1,5 @@
 Tutorial for using C++ with PyTorch in Linux (Part 1)
 
-For each step I want an answer that you have succeeded or if you have not succeeded, tell that and we will help you.
-
 Steps:
 
 1. I have tested in a virtual machine Ubuntu 14.04. I do not think it matters so much.
